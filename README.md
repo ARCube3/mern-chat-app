@@ -4,7 +4,7 @@
 
 The MERN stack which consists of **Mongo DB**, **Express.js**, **Node.js**, and **React.js** is a popular stack for building full-stack web-based applications because of its simplicity and ease of use. In recent years, with the explosive popularity and the growing maturity of the JavaScript ecosystem, the MERN stack has been the goto stack for a large number of web applications. This stack is also highly popular among newcomers to the JS field because of how easy it is to get started with this stack.
 <br/><br/>
-This repo consists of a **Chat Application** built with the MERN stack. I built this sometime back when I was trying to learn the stack and I have left it here for anyone new to the stack so that they can use this repo as a guide.
+This repo consists of a **Chat Application** built with the MERN stack. 
 <br/><br/>
 This is a full-stack chat application that can be up and running with just a few steps. 
 Its frontend is built with [Material UI](https://material-ui.com/) running on top of React.
@@ -51,9 +51,4 @@ You can have this application up and running with just a few steps because it ha
 * Database connections in the backend are handled using the [Mongoose ORM](https://mongoosejs.com/)
 * Code quality is ensured using (ESLint)[https://eslint.org/]
 
-### Disclaimer
 
-This repository contains beginner level code and might contain some things I wish to change or remove. I have not maintained this for quite some time, but now I am trying to slowly fix these issues. You are welcome to open issues if you find any and I will accept PR's as well.
-<br/><br/>
-
-Cheers 💻 🍺 🔥 🙌
